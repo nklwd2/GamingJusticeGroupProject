@@ -1,7 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Outside","order":1,"parentId":0,"scrollX":1404,"scrollY":753.4285714285713},
-{"id":2,"expanded":false,"name":"Bookstore","order":3,"parentId":0,"scrollX":595.6363636363636,"scrollY":319.6363636363636},
-{"id":3,"expanded":true,"name":"Apartment","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":319.6363636363636},
-{"id":4,"expanded":false,"name":"Flower Shop","order":4,"parentId":0,"scrollX":595.6363636363636,"scrollY":319.6363636363636}
+{"id":1,"expanded":true,"name":"Outside","order":1,"parentId":0,"scrollX":1638,"scrollY":879},
+{"id":2,"expanded":false,"name":"Bookstore","order":3,"parentId":0,"scrollX":1638,"scrollY":879},
+{"id":3,"expanded":true,"name":"Apartment","order":2,"parentId":0,"scrollX":1638,"scrollY":879},
+{"id":4,"expanded":false,"name":"Flower Shop","order":4,"parentId":0,"scrollX":1638,"scrollY":879},
+{"id":5,"expanded":false,"name":"Doctor 1","order":5,"parentId":0,"scrollX":546,"scrollY":293},
+{"id":6,"expanded":false,"name":"Doctor 2","order":6,"parentId":0,"scrollX":546,"scrollY":293},
+{"id":7,"expanded":false,"name":"Doctor 3","order":7,"parentId":0,"scrollX":546,"scrollY":293}
 ]
